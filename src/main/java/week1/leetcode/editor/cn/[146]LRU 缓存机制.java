@@ -1,4 +1,4 @@
-package leetcode.editor.cn.week1;//运用你所掌握的数据结构，设计和实现一个 LRU (最近最少使用) 缓存机制 。
+package week1.leetcode.editor.cn.week1;//运用你所掌握的数据结构，设计和实现一个 LRU (最近最少使用) 缓存机制 。
 //
 // 
 // 
