@@ -52,7 +52,7 @@ package week1.leetcode.editor.cn;
  */
 
 // 非递归
-//class Solution {
+//class week5.leetcode.editor.cn.Solution {
 //    public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
 //        ListNode pre = new ListNode(0);
 //        ListNode cur = pre;

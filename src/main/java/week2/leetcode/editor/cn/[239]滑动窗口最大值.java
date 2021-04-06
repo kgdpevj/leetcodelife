@@ -94,7 +94,7 @@ class Solution {
 
 //        int[] nums = new int[]{1, 3, -1, -3, 5, 3, 6, 7};
 //        int k = 3;
-//        System.out.println(new Solution().maxSlidingWindow(nums, k));
+//        System.out.println(new week5.leetcode.editor.cn.Solution().maxSlidingWindow(nums, k));
 //    }
 //        if (nums.length == 0) return new int[0];
 //        int[] result = new int[nums.length - k + 1];
