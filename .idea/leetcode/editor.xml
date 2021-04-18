@@ -11,6 +11,30 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/week2/leetcode/editor/cn/[169]多数元素.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/main/java/week2/leetcode/editor/cn/[169]多数元素.java" />
+              <option name="questionId" value="169" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/week2/leetcode/editor/cn/[235]二叉搜索树的最近公共祖先.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/main/java/week2/leetcode/editor/cn/[235]二叉搜索树的最近公共祖先.java" />
+              <option name="questionId" value="235" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/week2/leetcode/editor/cn/[236]二叉树的最近公共祖先.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/main/java/week2/leetcode/editor/cn/[236]二叉树的最近公共祖先.java" />
+              <option name="questionId" value="236" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/week2/leetcode/editor/cn/[51]N 皇后.java">
           <value>
             <LeetcodeEditor>
@@ -19,11 +43,131 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/week2/leetcode/editor/cn/[94]二叉树的中序遍历.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/main/java/week2/leetcode/editor/cn/[94]二叉树的中序遍历.java" />
+              <option name="questionId" value="94" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/week2/leetcode/editor/cn/[剑指 Offer 05]替换空格.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/main/java/week2/leetcode/editor/cn/[剑指 Offer 05]替换空格.java" />
+              <option name="questionId" value="100280" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/week2/leetcode/editor/cn/[剑指 Offer 06]从尾到头打印链表.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/main/java/week2/leetcode/editor/cn/[剑指 Offer 06]从尾到头打印链表.java" />
+              <option name="questionId" value="100282" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/week2/leetcode/editor/cn/[剑指 Offer 68 - I]二叉搜索树的最近公共祖先.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/main/java/week2/leetcode/editor/cn/[剑指 Offer 68 - I]二叉搜索树的最近公共祖先.java" />
+              <option name="questionId" value="100346" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/week2/leetcode/editor/cn/leetcode/editor/cn/[104]二叉树的最大深度.java">
           <value>
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/src/main/java/week2/leetcode/editor/cn/leetcode/editor/cn/[104]二叉树的最大深度.java" />
               <option name="questionId" value="104" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/week3/leetcode/editor/cn/[190]颠倒二进制位.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/main/java/week3/leetcode/editor/cn/[190]颠倒二进制位.java" />
+              <option name="questionId" value="190" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/week3/leetcode/editor/cn/[235]二叉搜索树的最近公共祖先.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/main/java/week3/leetcode/editor/cn/[235]二叉搜索树的最近公共祖先.java" />
+              <option name="questionId" value="235" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/week3/leetcode/editor/cn/[236]二叉树的最近公共祖先.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/main/java/week3/leetcode/editor/cn/[236]二叉树的最近公共祖先.java" />
+              <option name="questionId" value="236" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/week3/leetcode/editor/cn/[剑指 Offer 05]替换空格.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/main/java/week3/leetcode/editor/cn/[剑指 Offer 05]替换空格.java" />
+              <option name="questionId" value="100280" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/week3/leetcode/editor/cn/[剑指 Offer 68 - II]二叉树的最近公共祖先.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/main/java/week3/leetcode/editor/cn/[剑指 Offer 68 - II]二叉树的最近公共祖先.java" />
+              <option name="questionId" value="100347" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/week3/leetcode/editor/cn/[剑指 Offer 68 - I]二叉搜索树的最近公共祖先.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/main/java/week3/leetcode/editor/cn/[剑指 Offer 68 - I]二叉搜索树的最近公共祖先.java" />
+              <option name="questionId" value="100346" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/week5/leetcode/editor/cn/[1122]数组的相对排序.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/main/java/week5/leetcode/editor/cn/[1122]数组的相对排序.java" />
+              <option name="questionId" value="1217" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/week5/leetcode/editor/cn/[190]颠倒二进制位.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/main/java/week5/leetcode/editor/cn/[190]颠倒二进制位.java" />
+              <option name="questionId" value="190" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/week5/leetcode/editor/cn/[299]猜数字游戏.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/main/java/week5/leetcode/editor/cn/[299]猜数字游戏.java" />
+              <option name="questionId" value="299" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/week5/leetcode/editor/cn/[94]二叉树的中序遍历.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/main/java/week5/leetcode/editor/cn/[94]二叉树的中序遍历.java" />
+              <option name="questionId" value="94" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/week5/leetcode/editor/cn/[面试题 17.22]单词转换.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/main/java/week5/leetcode/editor/cn/[面试题 17.22]单词转换.java" />
+              <option name="questionId" value="1000030" />
             </LeetcodeEditor>
           </value>
         </entry>
